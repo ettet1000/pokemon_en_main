@@ -377,10 +377,58 @@
 "effect":"Enables Banette to Mega Evolve during battle."
 },
 {
+"name":"Barred Cup",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/barred-cup.png",
+"category":"Hold items",
+"effect":"One of the cups the player can use during a picnic."
+},
+{
+"name":"Basculegion Food",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/basculegion-food.png",
+"category":"Hold items",
+"effect":"Used to befriend the rideable Basculegion."
+},
+{
+"name":"Basement Key II",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/basement-key-ii.png",
+"category":"Hold items",
+"effect":"Allows the player to access the basement of the Goldenrod Tunnel."
+},
+{
+"name":"Basement Key III",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/basement-key-iii.png",
+"category":"Hold items",
+"effect":"Allows the player to access New Mauville."
+},
+{
+"name":"Basil",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/basil.png",
+"category":"Hold items",
+"effect":"An ingredient for sandwiches."
+},
+{
+"name":"Battle Tablecloth",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/battle-tablecloth.png",
+"category":"Hold items",
+"effect":"One of the tablecloths the player can use during a picnic."
+},
+{
 "name":"Beach Glass",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/beach-glass.png",
 "category":"General items",
 "effect":"A piece of colored glass. Waves have rounded its edges. It's slightly rough to the touch."
+},
+{
+"name":"Bead Mail",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/bead-mail.png",
+"category":"General items",
+"effect":"A bead-printed stationery. To be held by a Pokémon for delivery."
+},
+{
+"name":"Bean Cake",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/bead-cake.png",
+"category":"General items",
+"effect":"Used to attract certain Pokémon."
 },
 {
 "name":"Beast Ball",
@@ -395,21 +443,64 @@
 "effect":"Enables Beedrill to Mega Evolve during battle."
 },
 {
+"name":"Bellsprout Candy",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/bellsprout-candy.png",
+"category":"Hold items",
+"effect":"Increase all stats of a member of the Bellsprout family by one AV point."
+},
+{
 "name":"Belue Berry",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/belue-berry.png",
 "category":"Berries",
-"effect":"A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+"effect":"Poffin and Pokéblock ingredient."
+},
+{
+"name":"Berry",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/berry.png",
+"category":"Berries",
+"effect":"Restores 10 HP. A Pokémon can use it automatically if it is holding it."
 },
 {
 "name":"Berry Juice",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/berry-juice.png",
-"category":"Medicine",
-"effect":"A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points."
+"category":"Hold items",
+"effect":"Restores 20 HP."
+},
+{
+"name":"Berry Pots",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/berry-pots.png",
+"category":"Hold items",
+"effect":"Allows Berry growth while traveling."
+},
+{
+"name":"Berry Pouch",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/berry-pouch.png",
+"category":"Hold items",
+"effect":"Holds Berries."
 },
 {
 "name":"Berry Sweet",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/berry-sweet.png",
 "category":"Hold items",
-"effect":"Evolves Milcery into Blueberry Flavor Alcremie."
+"effect":"When Milcery evolves holding this the Alcremie will have the Berry Sweet decoration."
+},
+{
+"name":"Berserk Gene",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/berserk-gene.png",
+"category":"Hold items",
+"effect":"Confuses the holder and raises Attack."
+},
+{
+"name":"Bicycle",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/bicycle.png",
+"category":"Hold items",
+"effect":"Can be used to travel quickly. Cannot be ridden in swamps, or in very tall grass. Known as Bike in Generation IV onwards."
+},
+{
+"name":"Big Bamboo Shoot",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/big-bamboo-shoot.png",
+"category":"Hold items",
+"effect":"A large and rare bamboo shoot. It’s extremely popular with a certain class of gourmands."
 },
 {
 "name":"Big Malasada",
@@ -442,16 +533,40 @@
 "effect":"Recovers more HP from HP-stealing moves."
 },
 {
+"name":"Bike Voucher",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/bike-voucher.png",
+"category":"Hold items",
+"effect":"Used to pay for a Bicycle."
+},
+{
 "name":"Binding Band",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/binding-band.png",
 "category":"Hold items",
 "effect":"A band that increases the power of binding moves when held."
 },
 {
+"name":"Bitter Berry",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/bitter-berry.png",
+"category":"Hold items",
+"effect":"Heals confusion."
+},
+{
+"name":"Bitter Herba Mystica",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/bitter-herba-mystica.png",
+"category":"Hold items",
+"effect":"An ingredient for sandwiches."
+},
+{
 "name":"Black Apricorn",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/black-apricorn.png",
 "category":"General items",
 "effect":"A black Apricorn It has an indescribable scent."
+},
+{
+"name":"Black Augurite",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/black-augurite.png",
+"category":"General items",
+"effect":"Used to evolve Scyther into Kleavor."
 },
 {
 "name":"Black Belt",
@@ -472,10 +587,28 @@
 "effect":"Increases the power of Dark-type moves."
 },
 {
+"name":"Black Mane Hair",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/black-mane-hair.png",
+"category":"Hold items",
+"effect":"Used with a Radiant Petal to create the Reins of Unity."
+},
+{
 "name":"Black Sludge",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/black-sludge.png",
 "category":"Hold items",
 "effect":"A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types."
+},
+{
+"name":"Black Tumblestone",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/black-tumblestone.png",
+"category":"Hold items",
+"effect":"Used to craft Heavy, Leaden, and Gigaton Balls in Hisui."
+},
+{
+"name":"Blank Plate",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/black-plate.png",
+"category":"Hold items",
+"effect":"Changes Arceus and the move Judgment to Normal-type."
 },
 {
 "name":"Blastoisinite",
@@ -490,16 +623,64 @@
 "effect":"Enables Blaziken to Mega Evolve during battle."
 },
 {
+"name":"Blue Mail",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-mail.png",
+"category":"General items",
+"effect":"A flower-printed stationery. To be held by a Pokémon for delivery."
+},
+{
 "name":"Blue Apricorn",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-apricorn.png",
 "category":"General items",
 "effect":"A blue Apricorn. It smells a bit like grass."
 },
 {
+"name":"Blue Bottle",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-bottle.png",
+"category":"General items",
+"effect":"One of the water bottles the player can use during a picnic."
+},
+{
+"name":"Blue Card",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-card.png",
+"category":"General items",
+"effect":"Allows player to answer daily question on Buena's show to get points exchangeable for items."
+},
+{
+"name":"Blue Cup",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-cup.png",
+"category":"General items",
+"effect":"One of the cups the player can use during a picnic."
+},
+{
+"name":"Blue Dish",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-dish.png",
+"category":"General items",
+"effect":"One of the dishes the player can use to make a sandwich on."
+},
+{
 "name":"Blue Flute",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-flute.png",
 "category":"General items",
 "effect":"A toy flute made from blue glass. A maniac will buy it for a high price."
+},
+{
+"name":"Blue Orb",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-orb.png",
+"category":"General items",
+"effect":"Used to awaken Kyogre. It also turns Kyogre into Primal Kyogre during battle when holding the item."
+},
+{
+"name":"Blue Petal",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-petal.png",
+"category":"General items",
+"effect":"A blue petal required to complete Mina's Trial."
+},
+{
+"name":"Blue Poké Ball Pick",
+"imageUrl":"https://pokedex.alansantos.dev/assets/items/blue-poke-ball-pick.png",
+"category":"General items",
+"effect":"One of the picks the player can use to make a sandwich."
 },
 {
 "name":"Blue Scarf",
