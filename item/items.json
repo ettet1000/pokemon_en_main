@@ -1,1027 +1,1027 @@
 [
     {
         "name": "Ability Shield",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/ability-shield.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/ability-shield.png",
         "category": "Other Items",
         "effect": "Prevents the holder's Ability from being changed by other Pokémon."
     },
     {
         "name": "Apple",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/apple.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/apple.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Auspicious Armor",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/auspicious-armor.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/auspicious-armor.png",
         "category": "Other Items",
         "effect": "Used to evolve Charcadet into Armarouge."
     },
     {
         "name": "Avocado",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/avocado.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/avocado.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Bacon",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/bacon.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/bacon.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Baguette",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/baguette.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/baguette.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Banana",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Banana.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Banana.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Basil",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Basil.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Basil.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Bitter Herba Mystica",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Bitter Herba Mystica.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Bitter Herba Mystica.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Booster Energy",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Booster Energy.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Booster Energy.png",
         "category": "Other Items",
         "effect": "If held by a Pokémon with the Ability Protosynthesis or Quark Drive and harsh sunlight or Electric Terrain is not active, respectively, Booster Energy is consumed, and the Pokémon's respective Ability is activated."
     },
     {
         "name": "Bug Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Bug Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Bug Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Bug Tera Shards can be used to change a Pokémon's Tera Type to Bug at the Treasure Eatery in Medali."
     },
     {
         "name": "Butter",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Butter.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Butter.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Cheese",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Cheese.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Cheese.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Cherry Tomatoes",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Cherry Tomatoes.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Cherry Tomatoes.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Chili Sauce",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Chili Sauce.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Chili Sauce.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Chorizo",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Chorizo.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Chorizo.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Clear Amulet",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Clear Amulet.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Clear Amulet.png",
         "category": "Other Items",
         "effect": "Prevents the holder from having its stats lowered by moves or abilities."
     },
     {
         "name": "Covert Cloak",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Covert Cloak.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Covert Cloak.png",
         "category": "Other Items",
         "effect": "Protects the holder from the addition effects of another Pokémon's damaging moves."
     },
     {
         "name": "Cream Cheese",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Cream Cheese.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Cream Cheese.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Cucumber",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Cucumber.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Cucumber.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Curry Powder",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Curry Powder.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Curry Powder.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Dark Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Dark Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Dark Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Dark Tera Shards can be used to change a Pokémon's Tera Type to Dark at the Treasure Eatery in Medali."
     },
     {
         "name": "Dragon Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Dragon Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Dragon Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Dragon Tera Shards can be used to change a Pokémon's Tera Type to Dragon at the Treasure Eatery in Medali."
     },
     {
         "name": "Egg",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Egg.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Egg.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Electric Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Electric Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Electric Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Electric Tera Shards can be used to change a Pokémon's Tera Type to Electric at the Treasure Eatery in Medali."
     },
     {
         "name": "Fairy Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Fairy Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Fairy Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Fairy Tera Shards can be used to change a Pokémon's Tera Type to Fairy at the Treasure Eatery in Medali."
     },
     {
         "name": "Fighting Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Fighting Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Fighting Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Fighting Tera Shards can be used to change a Pokémon's Tera Type to Fighting at the Treasure Eatery in Medali."
     },
     {
         "name": "Fire Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Fire Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Fire Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Fire Tera Shards can be used to change a Pokémon's Tera Type to Fire at the Treasure Eatery in Medali."
     },
     {
         "name": "Flying Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Flying Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Flying Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Flying Tera Shards can be used to change a Pokémon's Tera Type to Flying at the Treasure Eatery in Medali."
     },
     {
         "name": "Fried Fillet",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Fried Fillet.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Fried Fillet.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Ghost Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Ghost Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Ghost Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Ghost Tera Shards can be used to change a Pokémon's Tera Type to Ghost at the Treasure Eatery in Medali."
     },
     {
         "name": "Gimmighoul Coin",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Gimmighoul Coin.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Gimmighoul Coin.png",
         "category": "Other Items",
         "effect": "Having 999 Gimmighoul Coins causes Gimmighoul to evolve into Gholdengo when it levels up, after which the coins are consumed. Despite being categorized as a TM Material, the Gimmighoul Coin is not actually used to make any TMs."
     },
     {
         "name": "Grass Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Grass Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Grass Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Grass Tera Shards can be used to change a Pokémon's Tera Type to Grass at the Treasure Eatery in Medali."
     },
     {
         "name": "Green Bell Pepper",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Green Bell Pepper.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Green Bell Pepper.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Ground Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Ground Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Ground Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Ground Tera Shards can be used to change a Pokémon's Tera Type to Ground at the Treasure Eatery in Medali."
     },
     {
         "name": "Ham",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Ham.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Ham.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Hamburger",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Hamburger.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Hamburger.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Bitter Herba Mystica",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Bitter Herba Mystica.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Bitter Herba Mystica.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Salty Herba Mystica",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Salty Herba Mystica.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Salty Herba Mystica.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Sour Herba Mystica",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Sour Herba Mystica.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Sour Herba Mystica.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Spicy Herba Mystica",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Spicy Herba Mystica.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Spicy Herba Mystica.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Sweet Herba Mystica",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Sweet Herba Mystica.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Sweet Herba Mystica.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Herbed Sausage",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Herbed Sausage.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Herbed Sausage.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Horseradish",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Horseradish.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Horseradish.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Ice Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Ice Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Ice Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Ice Tera Shards can be used to change a Pokémon's Tera Type to Ice at the Treasure Eatery in Medali."
     },
     {
         "name": "Jalapeño",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Jalapeño.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Jalapeño.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Jam",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Jam.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Jam.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Ketchup",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Ketchup.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Ketchup.png",
         "category": "Other Items",
         "effect": "Increases the chance multistrike moves will hit more times."
     },
     {
         "name": "Kiwi",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Kiwi.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Kiwi.png",
         "category": "Other Items",
         "effect": "Used to evolve Charcadet into Ceruledge."
     },
     {
         "name": "Picnic Items",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Klawf Stick.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Klawf Stick.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Kofu's Wallet",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Kofu's Wallet.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Kofu's Wallet.png",
         "category": "Key items",
         "effect": "Give to Kofu in Porto Marinada to progress the story."
     },
     {
         "name": "Koraidon's Poké Ball",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Koraidon's Poké Ball.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Koraidon's Poké Ball.png",
         "category": "Other Items",
         "effect": "Allows the player to call upon Miraidon to help them in various ways."
     },
     {
         "name": "Leader's Crest",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Leader's Crest.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Leader's Crest.png",
         "category": "Other Items",
         "effect": "Copies the opponents' stat increases."
     },
     {
         "name": "Lettuce",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Lettuce.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Lettuce.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Loaded Dice",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Loaded Dice.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Loaded Dice.png",
         "category": "Other Items",
         "effect": "When held by a Pokémon, Loaded Dice causes multistrike moves to always hit at least four times."
     },
     {
         "name": "Malicious Armor",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Malicious Armor.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Malicious Armor.png",
         "category": "Other Items",
         "effect": "Used to evolve Charcadet into Ceruledge."
     },
     {
         "name": "Marmalade",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Marmalade.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Marmalade.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Mayonnaise",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Mayonnaise.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Mayonnaise.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Miraidon's Poké Ball",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Miraidon's Poké Ball.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Miraidon's Poké Ball.png",
         "category": "Key items",
         "effect": "A Poké Ball that can hold the mysterious Pokémon known as Miraidon. A boy named Arven gave it to you."
     },
     {
         "name": "Mirror Herb",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Mirror Herb.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Mirror Herb.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Mustard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Mustard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Mustard.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Noodles",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Noodles.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Noodles.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Normal Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Normal Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Normal Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Normal Tera Shards can be used to change a Pokémon's Tera Type to Normal at the Treasure Eatery in Medali."
     },
     {
         "name": "Olive Oil",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Olive Oil.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Olive Oil.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Onion",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Onion.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Onion.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Peanut Butter",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Peanut Butter.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Peanut Butter.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Pepper",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Pepper.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Pepper.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Pickle",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Pickle.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Pickle.png",
         "category": "Other Items",
         "effect": "Increases the power of punching moves and prevents contact with targets."
     },
     {
         "name": "Pineapple",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Pineapple.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Pineapple.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Poison Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Poison Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Poison Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Poison Tera Shards can be used to change a Pokémon's Tera Type to Poison at the Treasure Eatery in Medali."
     },
     {
         "name": "Potato Salad",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Potato Salad.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Potato Salad.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Potato Tortilla",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Potato Tortilla.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Potato Tortilla.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Prosciutto",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Prosciutto.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Prosciutto.png",
         "category": "Other Items",
         "effect": "Allows the player to access multiple different functions using Rotom."
     },
     {
         "name": "Psychic Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Psychic Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Psychic Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Psychic Tera Shards can be used to change a Pokémon's Tera Type to Psychic at the Treasure Eatery in Medali."
     },
     {
         "name": "Punching Glove",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Punching Glove.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Punching Glove.png",
         "category": "Other Items",
         "effect": "Punching Glove increases the power of punching moves by 10% and prevents contact with targets done by those moves."
     },
     {
         "name": "Red Bell Pepper",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Red Bell Pepper.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Red Bell Pepper.png",
         "category": "Other Items",
         "effect": "Given to the player for various story events."
     },
     {
         "name": "Red Onion",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Red Onion.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Red Onion.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Rice",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Rice.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Rice.png",
         "category": "Other Items",
         "effect": "Used to evolve Kubfu into Urshifu (Single Strike Style)."
     },
     {
         "name": "Rock Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Rock Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Rock Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Rock Tera Shards can be used to change a Pokémon's Tera Type to Rock at the Treasure Eatery in Medali."
     },
     {
         "name": "Rotom Phone",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Rotom Phone.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Rotom Phone.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Salt",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Salt.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Salt.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Sandwich",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Sandwich.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Sandwich.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Scarlet Book",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Scarlet Book.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Scarlet Book.png",
         "category": "Other Items",
         "effect": "A record of the expedition that the author, Heath, went on within the Great Crater of Paldea. The book has the name “Sada” written on it in clumsy handwriting."
     },
     {
         "name": "Scroll of Darkness",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Scroll of Darkness.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Scroll of Darkness.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Scroll of Waters",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Scroll of Waters.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Scroll of Waters.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Smoked Fillet",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Smoked Fillet.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Smoked Fillet.png",
         "category": "Other Items",
         "effect": "Allow the player to Terastallize Pokémon. Must recharge after each use."
     },
     {
         "name": "Steel Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Steel Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Steel Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Steel Tera Shards can be used to change a Pokémon's Tera Type to Steel at the Treasure Eatery in Medali."
     },
     {
         "name": "Strawberry",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Strawberry.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Strawberry.png",
         "category": "Other Items",
         "effect": "Used to create TMs at the TM Machine based on what Pokémon dropped the item."
     },
     {
         "name": "Tera Orb",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Tera Orb.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Tera Orb.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Tiny Bamboo Shoot",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Tiny Bamboo Shoot.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Tiny Bamboo Shoot.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "TM101",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM101.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM101.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM102",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM102.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM102.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM103",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM103.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM103.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM104",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM104.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM104.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM105",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM105.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM105.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM106",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM106.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM106.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM107",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM107.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM107.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM108",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM108.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM108.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM109",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM109.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM109.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM110",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM110.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM110.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM111",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM111.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM111.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM112",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM112.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM112.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM113",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM113.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM113.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM114",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM114.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM114.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM115",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM115.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM115.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM116",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM116.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM116.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM117",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM117.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM117.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM118",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM118.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM118.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM119",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM119.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM119.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM120",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM120.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM120.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM121",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM121.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM121.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM122",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM122.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM122.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM123",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM123.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM123.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM124",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM124.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM124.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM125",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM125.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM125.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM126",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM126.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM126.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM127",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM127.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM127.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM128",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM128.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM128.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM129",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM129.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM129.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM130",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM130.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM130.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM131",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM131.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM131.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM132",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM132.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM132.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM133",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM133.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM133.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM134",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM134.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM134.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM135",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM135.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM135.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM136",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM136.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM136.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM137",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM137.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM137.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM138",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM138.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM138.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM139",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM139.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM139.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM140",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM140.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM140.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM141",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM141.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM141.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM142",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM142.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM142.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM143",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM143.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM143.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM144",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM144.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM144.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM145",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM145.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM145.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM146",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM146.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM146.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM147",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM147.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM147.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM148",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM148.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM148.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM149",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM149.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM149.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM150",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM150.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM150.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM151",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM151.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM151.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM152",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM152.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM152.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM153",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM153.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM153.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM154",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM154.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM154.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM155",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM155.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM155.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM156",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM156.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM156.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM157",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM157.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM157.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM158",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM158.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM158.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM159",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM159.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM159.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM160",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM160.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM160.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM161",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM161.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM161.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM162",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM162.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM162.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM163",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM163.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM163.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM164",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM164.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM164.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM165",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM165.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM165.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM166",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM166.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM166.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM167",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM167.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM167.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM168",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM168.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM168.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM169",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM169.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM169.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM170",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM170.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM170.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "TM171",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/TM171.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/TM171.png",
         "category": "Other Items",
         "effect": "TM introduced in Generation IX. It teaches a compatible Pokémon a move. The move it teaches depends on the game."
     },
     {
         "name": "Tofu",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Tofu.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Tofu.png",
         "category": "Other Items",
         "effect": "One of the picks the player can use to make a sandwich."
     },
     {
         "name": "Tomato",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Tomato.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Tomato.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Vinegar",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Vinegar.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Vinegar.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Violet Book",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Violet Book.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Violet Book.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Wasabi",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Wasabi.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Wasabi.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Water Tera Shard",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Water Tera Shard.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Water Tera Shard.png",
         "category": "Other Items",
         "effect": "50 Water Tera Shards can be used to change a Pokémon's Tera Type to Water at the Treasure Eatery in Medali."
     },
     {
         "name": "Watercress",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Watercress.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Watercress.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Whipped Cream",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Whipped Cream.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Whipped Cream.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Yellow Bell Pepper",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Yellow Bell Pepper.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Yellow Bell Pepper.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     },
     {
         "name": "Yogurt",
-        "imageUrl": "https://pokedex.alansantos.dev/assets/items/Yogurt.png",
+        "imageUrl": "https://img.pokemondb.net/sprites/items/Yogurt.png",
         "category": "Picnic Items",
         "effect": "An ingredient for sandwiches."
     }
