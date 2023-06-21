@@ -33,7 +33,7 @@
 "cards":[{"number":"124","name":"Ursaluna","expansionName":"Sword & Shield Promo"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_124.png"}
 ],
-"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/901 Ursaluna.ogg","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/901.ogg","moves":{
 "levelUp":[
     {
         "level": 1,
